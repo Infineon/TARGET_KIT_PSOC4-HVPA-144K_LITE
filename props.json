@@ -1,6 +1,6 @@
 {
     "core": {
-        "version": "3.4.0.47144"
+        "version": "3.4.1.47745"
     },
     "opt": {
         "props": {
@@ -12,6 +12,7 @@
                 "flash_128k",
                 "i2c",
                 "kit_psoc4_hvpa_144k_lite",
+                "led",
                 "lin",
                 "low_power",
                 "mcu_gp",

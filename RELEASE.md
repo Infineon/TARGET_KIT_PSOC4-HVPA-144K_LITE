@@ -14,6 +14,8 @@ The KIT_PSOC4-HVPA-144K_LITE library includes the following:
 * API documentation
 
 ### What Changed?
+#### v3.4.1
+* Remove macros referring to HAL for PSOC4 HVMS/PA devices
 #### v3.4.0
 * Added new devices support
 * Removed HAL support for PSOC™ 4 HVMS/PA devices
